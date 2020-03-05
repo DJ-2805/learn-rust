@@ -1,0 +1,6 @@
+#+TITLE: Learning Rust
+#+AUTHOR: David James
+#+DATE: 2020 March 05
+
+
+A set of projects from following [[https://doc.rust-lang.org/book/title-page.html][this]] Rust coding tutorial.
